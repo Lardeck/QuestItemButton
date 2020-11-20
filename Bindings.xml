@@ -1,0 +1,7 @@
+<Bindings>
+  <Binding name="CLICK PRMKQUESTITEMBUTTON1:LeftButton" header="PRMKQUESTITEMHEADER" Category="ADDONS"/>
+  <Binding name="CLICK PRMKQUESTITEMBUTTON2:LeftButton" Category="ADDONS"/>
+  <Binding name="CLICK PRMKQUESTITEMBUTTON3:LeftButton" Category="ADDONS"/>
+  <Binding name="CLICK PRMKQUESTITEMBUTTON4:LeftButton" Category="ADDONS"/>
+  <Binding name="CLICK PRMKQUESTITEMBUTTON5:LeftButton" Category="ADDONS"/>
+</Bindings>
